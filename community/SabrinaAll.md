@@ -6,7 +6,7 @@
 <h2>I am an enthusiastic developer</h2>
 <p align="justfy"> 👋 Hi, I’m @SabrinaAll
 👀 I’m interested in AI Development and Change the World!
-🌱 I am a Systems Analysis and Development student, Dev Java Jr (+1y) and I am currently studying .NET | C# | WEB Dev | Generative AI with AZURE
+🌱 I am a Systems Analysis and Development student, Dev Java Jr (+1y) and I am currently studying Generative AI 🤖
 💞️ I love helping people! I seek to collaborate with the development of new technologies that can help people and to transform their daily lives!
 
 <br>
